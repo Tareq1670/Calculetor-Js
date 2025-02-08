@@ -28,7 +28,7 @@ button:active{
 
 #calculetor{
   font-family: 'Arial',sans-serif;
-  background: rgb(58, 58, 58);
+  background: rgb(32, 32, 32);
   border-radius: 15px;
   max-width: 500px;
   overflow: hidden;
@@ -39,7 +39,7 @@ button:active{
   padding: 20px;
   font-size: 5rem;
   text-align: left;
-  background: rgb(167, 167, 167);
+  background: rgb(122, 122, 122);
   border: none;
   color: #fff;
 }
@@ -65,3 +65,4 @@ body{
 .oparator_btn:active{
   background:rgb(255, 153, 0);
 }
+
